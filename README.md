@@ -4,6 +4,8 @@ The goal of this thesis is to release a traffic scenario clustering function in 
 
 ### Related links
 1. http://mac.heinz.cmu.edu/#research
+2. The Trajectory Prediction Challenge of Apolloscapes Dataset:
+https://github.com/ApolloScapeAuto/dataset-api/tree/master/trajectory_prediction
 
 
 ### Datasets

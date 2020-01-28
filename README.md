@@ -9,6 +9,7 @@ https://github.com/ApolloScapeAuto/dataset-api/tree/master/trajectory_prediction
 3. THE PEGASUS METHOD: https://www.pegasusprojekt.de/en/pegasus-method
 4. PEGASUS JSON format: https://docs.pegasusgateway.com/#versioning
 5. OpenSCENARIO: http://www.openscenario.org/download.html
+6. References: http://www.andrew.cmu.edu/user/dingzhao/search.html?q=data
 
 
 ### Datasets
@@ -21,3 +22,8 @@ https://github.com/ApolloScapeAuto/dataset-api/tree/master/trajectory_prediction
 7. https://www.pegasusprojekt.de/files/tmpl/pdf/AVT%20Symposium%202017%20Database%20traffic%20scenarios_Folien.pdf
 8. 
 
+
+### Github Sources
+1. https://github.com/zhao-lab/trafficnet-1.0
+2. https://github.com/zhao-lab
+3. 

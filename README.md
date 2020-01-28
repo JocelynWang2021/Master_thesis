@@ -22,6 +22,7 @@ https://github.com/ApolloScapeAuto/dataset-api/tree/master/trajectory_prediction
 7. https://www.pegasusprojekt.de/files/tmpl/pdf/AVT%20Symposium%202017%20Database%20traffic%20scenarios_Folien.pdf
 8. https://robotcar-dataset.robots.ox.ac.uk
 9. http://robots.engin.umich.edu/SoftwareData/Ford
+10. https://waymo.com/open
 
 
 ### Github Sources

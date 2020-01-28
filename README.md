@@ -10,6 +10,7 @@ https://github.com/ApolloScapeAuto/dataset-api/tree/master/trajectory_prediction
 4. PEGASUS JSON format: https://docs.pegasusgateway.com/#versioning
 5. OpenSCENARIO: http://www.openscenario.org/download.html
 6. References: http://www.andrew.cmu.edu/user/dingzhao/search.html?q=data
+7. Waymo: https://medium.com/waymo/learning-to-drive-beyond-pure-imitation-465499f8bcb2
 
 
 ### Datasets

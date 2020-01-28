@@ -7,6 +7,7 @@ The goal of this thesis is to release a traffic scenario clustering function in 
 2. The Trajectory Prediction Challenge of Apolloscapes Dataset:
 https://github.com/ApolloScapeAuto/dataset-api/tree/master/trajectory_prediction
 3. THE PEGASUS METHOD: https://www.pegasusprojekt.de/en/pegasus-method
+4. OpenSCENARIO: http://www.openscenario.org/download.html
 
 
 ### Datasets

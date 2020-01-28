@@ -16,4 +16,8 @@ https://github.com/ApolloScapeAuto/dataset-api/tree/master/trajectory_prediction
 2. https://drive.google.com/drive/folders/0BzK-S-f4OvQ-aXNEMzVHa0YzN2s
 3. https://catalog.data.gov/dataset/safety-pilot-model-deployment-data
 4. https://blog.cambridgespark.com/50-free-machine-learning-datasets-self-driving-cars-d37be5a96b28
+5. https://pegasus.isi.edu/documentation/monitoring.php
+6. https://www.pegasusprojekt.de/files/tmpl/pdf/1st_European_CCAD_Folien.pdf
+7. https://www.pegasusprojekt.de/files/tmpl/pdf/AVT%20Symposium%202017%20Database%20traffic%20scenarios_Folien.pdf
+8. 
 

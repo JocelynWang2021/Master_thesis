@@ -13,6 +13,7 @@ https://github.com/ApolloScapeAuto/dataset-api/tree/master/trajectory_prediction
 7. Waymo: https://medium.com/waymo/learning-to-drive-beyond-pure-imitation-465499f8bcb2
 8. Architecting a Scalable Real Time Learning System: https://medium.com/value-stream-design/architecting-a-scalable-real-time-learning-system-95623d27dd15
 9. Time Series Forecasting as Supervised Learning: https://machinelearningmastery.com/time-series-forecasting-supervised-learning/
+10. Commonly used Machine Learning Algorithms: https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
 
 
 ### Datasets

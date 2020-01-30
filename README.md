@@ -33,6 +33,10 @@ https://github.com/ApolloScapeAuto/dataset-api/tree/master/trajectory_prediction
 11. https://bdd-data.berkeley.edu
 
 
+### Potential Algorithms
+1. https://blog.statsbot.co/machine-learning-algorithms-183cc73197c
+
+
 ### Github Sources
 1. https://github.com/zhao-lab/trafficnet-1.0
 2. https://github.com/zhao-lab

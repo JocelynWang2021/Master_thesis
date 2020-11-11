@@ -1,48 +1,5 @@
 # Master_thesis
-The goal of this thesis is to release a traffic scenario clustering function in vehicle running real time.
+The goal of this thesis project is to release traffic scenario classification models to identify traffic scenarios from driving data.
+Part of my codes are presented. 1-4 are the code files for data annotation and extracting scenarios using MATLAB. 5-12 are the code files for feature selection and implementing models. Public data which are used in this project includes DataFrontTargets.csv, DataLane.csv and DataWsu.csv from the link below. 
 
-
-### Related links
-1. http://mac.heinz.cmu.edu/#research
-2. The Trajectory Prediction Challenge of Apolloscapes Dataset:
-https://github.com/ApolloScapeAuto/dataset-api/tree/master/trajectory_prediction
-3. THE PEGASUS METHOD: https://www.pegasusprojekt.de/en/pegasus-method
-4. PEGASUS JSON format: https://docs.pegasusgateway.com/#versioning
-5. OpenSCENARIO: http://www.openscenario.org/download.html
-6. References: http://www.andrew.cmu.edu/user/dingzhao/search.html?q=data
-7. Waymo: https://medium.com/waymo/learning-to-drive-beyond-pure-imitation-465499f8bcb2
-8. Architecting a Scalable Real Time Learning System: https://medium.com/value-stream-design/architecting-a-scalable-real-time-learning-system-95623d27dd15
-9. Time Series Forecasting as Supervised Learning: https://machinelearningmastery.com/time-series-forecasting-supervised-learning/
-10. Commonly used Machine Learning Algorithms: https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
-11. Comparing Classical and Machine Learning Algorithms for Time Series Forecasting: https://machinelearningmastery.com/findings-comparing-classical-and-machine-learning-methods-for-time-series-forecasting/
-12. Applied Machine Learning with code: https://machinelearningmastery.com/start-here/#timeseries
-
-
-
-### Datasets
-*https://www.highd-dataset.com/format
-*https://scholar.google.se/scholar?start=0&q=github&hl=zh-CN&as_sdt=2005&sciodt=0,5&cites=14542919562581935501&scipsc=1
-*https://data.transportation.gov/Automobiles/Next-Generation-Simulation-NGSIM-Vehicle-Trajector/8ect-6jqj
-* https://ops.fhwa.dot.gov/trafficanalysistools/ngsim.htm
-1. https://data.transportation.gov
-1. https://data.transportation.gov/Automobiles/Safety-Pilot-Model-Deployment-Data/a7qq-9vfe
-2. https://drive.google.com/drive/folders/0BzK-S-f4OvQ-aXNEMzVHa0YzN2s
-3. https://catalog.data.gov/dataset/safety-pilot-model-deployment-data
-4. https://blog.cambridgespark.com/50-free-machine-learning-datasets-self-driving-cars-d37be5a96b28
-5. https://pegasus.isi.edu/documentation/monitoring.php
-6. https://www.pegasusprojekt.de/files/tmpl/pdf/1st_European_CCAD_Folien.pdf
-7. https://www.pegasusprojekt.de/files/tmpl/pdf/AVT%20Symposium%202017%20Database%20traffic%20scenarios_Folien.pdf
-8. https://robotcar-dataset.robots.ox.ac.uk
-9. http://robots.engin.umich.edu/SoftwareData/Ford
-10. https://waymo.com/open
-11. https://bdd-data.berkeley.edu
-
-
-### Potential Algorithms
-1. https://blog.statsbot.co/machine-learning-algorithms-183cc73197c
-
-
-### Github Sources
-1. https://github.com/zhao-lab/trafficnet-1.0
-2. https://github.com/zhao-lab
-
+https://data.transportation.gov/Automobiles/Safety-Pilot-Model-Deployment-Data/a7qq-9vfe

@@ -3,7 +3,7 @@ clear;
 close all;
 
 
-Path = 'C:\Users\xn_hi\Desktop\Example\Example';
+Path = 'C:\Users\XWANG221\Desktop\Example\Example';
 
 Folder_Info =  dir(Path);
 

@@ -3,11 +3,10 @@ clear;
 close all;
 
 
-Path = 'C:\Users\XWANG221\Desktop\Example\Example';
-
+Path = 'C:\Users\XWANG221\Downloads\Example';
 Folder_Info =  dir(Path);
-
 Folder_Num = length(Folder_Info)-2;
+
 
 for i = 2:1:Folder_Num
     Folder_Name = Folder_Info(i+2).name;        % mat path

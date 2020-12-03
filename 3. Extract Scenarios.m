@@ -2,11 +2,10 @@ clc;
 clear;
 close all;
 
-%load('Data_Front_New.mat');
-File_Name = 'Following_1.csv';
+
+File_Name = 'C:\Users\XWANG221\Downloads\TrafficNet\Following_1.csv';
 Data_Front_New = csvread(File_Name,1,0);
 
-%Data_Front_New = Data_Front_New(1:100000,:);
 
 Cutin = Data_Front_New(:,9);
 Following = Data_Front_New(:,10);

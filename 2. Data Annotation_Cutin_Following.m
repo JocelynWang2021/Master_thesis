@@ -2,20 +2,20 @@ clc;
 clear;
 close all;
 
-%%File_Name_1 = 'C:\Users\XWANG221\Downloads\TrafficNet\Result_CutIn_Front.csv';
-Data_Result = csvread('Result_CutIn_Front.csv',0,0);
+%%File_Name_1
+Data_Result = csvread('C:\Users\XWANG221\Downloads\TrafficNet\Result_CutIn_Front.csv',0,0);
 
-%%File_Name_2 = 'C:\Users\XWANG221\Downloads\TrafficNet\DataFrontTargets.csv';
-Data_Front = csvread('DataFrontTargets.csv',1,0);
+%%File_Name_2 
+Data_Front = csvread('C:\Users\XWANG221\Downloads\TrafficNet\DataFrontTargets.csv',1,0);
 
-%%File_Name_3 = 'C:\Users\XWANG221\Downloads\TrafficNet\laneChangeLeft_Normal.csv';
-Data_Left = csvread('laneChangeLeft_Normal.csv',0,0);
+%%File_Name_3 
+Data_Left = csvread('C:\Users\XWANG221\Downloads\TrafficNet\laneChangeLeft_Normal.csv',0,0);
 
-%%File_Name_4 = 'C:\Users\XWANG221\Downloads\TrafficNet\laneChangeRight_Normal.csv';
-Data_Right = csvread('laneChangeRight_Normal.csv',0,0);
+%%File_Name_4 
+Data_Right = csvread('C:\Users\XWANG221\Downloads\TrafficNet\laneChangeRight_Normal.csv',0,0);
 
-%%File_Name_5 = 'C:\Users\XWANG221\Downloads\TrafficNet\DataLane.csv';
-Data_Lane = csvread('DataLane.csv',1,0);
+%%File_Name_5 
+Data_Lane = csvread('C:\Users\XWANG221\Downloads\TrafficNet\DataLane.csv',1,0);
 
 File_Name_New = 'DataFrontTargets_New.csv';
 
@@ -66,7 +66,7 @@ for i = 1:1:M-1
         Data_New(i,N+3:N+7) = NaN;
     end
     
-    %% ???
+
     Fid = fopen(File_Name_New,'a+');
     fprintf(Fid,'%g,',Data_New(i,:));
     fprintf(Fid,'\n');

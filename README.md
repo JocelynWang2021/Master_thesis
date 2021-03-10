@@ -7,7 +7,9 @@ CutInEvents.csv, laneChangeLeft.csv and laneChangeRight.csv in Date come from th
 
 The codes of Long Short Term Memory are presented including feature selection and building the models using Python. 1-4 are the code files for data annotation and extracting scenarios using MATLAB.
 
-Version of python and library
+<pre>
+Version of python and library 
 python 3.7
 tensorflow 1.14.0
 sklearn 0.21.3
+</pre>
